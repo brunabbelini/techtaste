@@ -1,16 +1,61 @@
-# myapp
+# 🍽️ TechTaste
 
-A new Flutter project.
+**TechTaste** é um aplicativo de pedidos de restaurantes desenvolvido com Flutter, como parte da Imersão Mobile da Alura. O app proporciona uma experiência completa de navegação entre restaurantes, seleção de pratos e finalização do pedido por meio de uma sacola virtual.
 
-## Getting Started
+## 🚀 Tecnologias utilizadas
 
-This project is a starting point for a Flutter application.
+- Flutter
+- Dart
+- Provider (gerenciamento de estado)
+- Badges (exibição de quantidade de itens)
+- Assets locais (JSON, imagens e fontes)
+- Figma (protótipo de interface)
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Funcionalidades
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Splash screen personalizada
+- Tela inicial com categorias e lista de restaurantes
+- Busca por restaurantes
+- Tela de detalhes com cardápio do restaurante
+- Adição e remoção de pratos na sacola
+- Contador de itens na AppBar com Badge
+- Tela de checkout com totalização do pedido
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Como rodar o projeto
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/techtaste.git
+   ```
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd techtaste
+   ```
+   
+3. Instale as dependências:
+   ```bash
+   flutter pub get
+   ```
+
+4. Execute o projeto:
+   ```bash
+   flutter run
+   ```
+💡 Certifique-se de que o Flutter SDK está instalado e corretamente configurado no seu ambiente.
+Guia oficial de instalação do Flutter
+
+## 🎨 Layout
+
+O layout do aplicativo foi baseado em um protótipo desenvolvido no Figma, fornecido pela Alura durante a Imersão Mobile. O design moderno e intuitivo visa melhorar a experiência do usuário durante o processo de escolha e pedido de refeições.
+
+## 🧠 Aprendizados
+
+Durante o desenvolvimento do projeto, foram trabalhados conceitos essenciais do Flutter, como:
+- Estruturação de widgets e componentes reutilizáveis
+- Organização de temas e estilos globais
+- Leitura de dados mockados em JSON
+- Uso de Provider para controle de estado
+- Navegação entre telas
+- Lógica de manipulação de carrinho (sacola de pedidos)
+- Boas práticas de UI/UX para aplicativos mobile
