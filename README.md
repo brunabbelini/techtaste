@@ -51,9 +51,17 @@ O layout do aplicativo foi baseado em um protótipo desenvolvido no Figma, forne
 
 ## 🖼️ Prints do app
 
-<p float="left"> <img src="assets/images/prints/splash_screen.png" width="200" /> <img src="assets/images/prints/home_screen.png" width="200" /> <img src="assets/images/prints/restaurant_details.png" width="200" /> <img src="assets/images/prints/checkout_screen.png" width="200" /> </p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/042b4361-ff14-4619-988f-cce51be67c68" width="200" alt="Splash Screen" />
+  <img src="https://github.com/user-attachments/assets/374899bd-1240-428c-ac6f-0c3142fb7f91" width="200" alt="Home Screen" />
+  <img src="https://github.com/user-attachments/assets/35729abb-ba64-4f9b-a549-1430abb3cc29" width="200" alt="Detalhes do Restaurante" />
+  <img src="https://github.com/user-attachments/assets/a42fd7c5-30e2-44c4-99d3-495f235501fc" width="200" alt="Checkout" />
+</div>
 
 ## ▶️ Demonstração em vídeo
+
+🎥 Assista à demonstração completa do app:  
+[![TechTaste - Vídeo de Demonstração](https://img.youtube.com/vi/ca7d4563-cd53-437f-85e5-2f62ccbb28a4/0.jpg)](https://github.com/user-attachments/assets/ca7d4563-cd53-437f-85e5-2f62ccbb28a4)
 
 ## 🧠 Aprendizados
 
