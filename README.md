@@ -61,8 +61,10 @@ O layout do aplicativo foi baseado em um protótipo desenvolvido no Figma, forne
 ## ▶️ Demonstração em vídeo
 
 🎥 Assista à demonstração completa do app:  
-[![TechTaste - Vídeo de Demonstração](https://img.youtube.com/vi/ca7d4563-cd53-437f-85e5-2f62ccbb28a4/0.jpg)](https://github.com/user-attachments/assets/ca7d4563-cd53-437f-85e5-2f62ccbb28a4)
 OBS: perdoem pela qualidade, o aplicativo estava travando 
+
+[![TechTaste - Vídeo de Demonstração](https://img.youtube.com/vi/ca7d4563-cd53-437f-85e5-2f62ccbb28a4/0.jpg)](https://github.com/user-attachments/assets/ca7d4563-cd53-437f-85e5-2f62ccbb28a4)
+
 
 ## 🧠 Aprendizados
 
